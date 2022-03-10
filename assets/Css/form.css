@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.4;
+    color: #fff;
+}
+body{
+    background-image: 
+    url(https://scontent.fhph1-2.fna.fbcdn.net/v/t1.6435-9/122569758_3432074926885111_1486454472583865938_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_ohc=j7vJzXHQgGYAX-hZ46i&_nc_ht=scontent.fhph1-2.fna&oh=00_AT90lUfG2cmGIDhEp5Ud-r_lDbPNl9IRzTBf27NPZ60wwQ&oe=61F96443);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+form{
+    margin: auto;
+    padding: 30px;
+    background-image: linear-gradient(
+        115deg,
+        rgba(84, 84, 172, 0.8),
+        rgba(151, 151, 221, 0.7)
+      );
+}
+h1, p{
+    color: #fff;
+}
+.text-header{
+    margin-top: 40px;
+}
+.title{
+    margin: 10px 0;
+    font-size: 1.2rem;
+    font-style: italic;
+}
+.form-name{
+    margin-bottom: 2px;
+    color:#fff;
+    font-weight: 500;
+    font-size: large;
+    
+}
+.form-check-label{
+    color: #fff;
+    font-weight: 500;
+    font-size: large;
+}
+button.btn-primary{
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+    border-radius: 8px;
+}
+
